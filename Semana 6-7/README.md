@@ -138,7 +138,7 @@ El bucle de animación utiliza `requestAnimationFrame()` para actualizar la esce
 Al hacer click en la siguiente imagen, se redirigirá a un video de YouTuber donde se hace una demostración de la ejecución del código
 
 [![Ver vídeo en YouTube](https://img.youtube.com/vi/oB7a3vygBxo/maxresdefault.jpg)](https://www.youtube.com/watch?v=oB7a3vygBxo)
-[Ver demostración en vídeo](https://www.youtube.com/watch?v=oB7a3vygBxo)
+
 ## Uso de IA
 
 Para este proyecto, se usado la Inteligencia Artificial ChatGPT para las siguientes consultas:
