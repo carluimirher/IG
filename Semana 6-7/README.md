@@ -137,7 +137,7 @@ El bucle de animación utiliza `requestAnimationFrame()` para actualizar la esce
 
 Aquí hay una demostración de la ejecución del código
 
-![Demostración en funcionamiento](ejecucion.gif)
+https://youtu.be/oB7a3vygBxo
 
 ## Uso de IA
 
