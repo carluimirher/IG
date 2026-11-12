@@ -1,0 +1,41 @@
+code;name;lat;lon;zone
+MAD;Adolfo Suárez Madrid-Barajas;40.4722;-3.5608;Península
+BCN;Barcelona–El Prat;41.2971;2.0785;Península
+LCG;A Coruña;43.3021;-8.3773;Península
+AGP;Málaga–Costa del Sol;36.6749;-4.4991;Península
+BIO;Bilbao;43.3011;-2.9106;Península
+ALC;Alicante–Elche Miguel Hernández;38.2822;-0.5582;Península
+PMI;Palma de Mallorca;39.5517;2.7388;Baleares
+VLC;València (Manises);39.4893;-0.4816;Península
+GRO;Girona–Costa Brava;41.901;2.7607;Península
+MAH;Menorca (Maó);39.8626;4.2186;Baleares
+OVD;Asturias (Ranón);43.5636;-6.0346;Península
+IBZ;Ibiza;38.8729;1.3731;Baleares
+SVQ;Sevilla (San Pablo);37.418;-5.8931;Península
+SCQ;Santiago de Compostela;42.8963;-8.4151;Península
+EAS;San Sebastián (Hondarribia);43.3565;-1.7906;Península
+JCU;Ceuta (Helipuerto);35.898;-5.3066;Ceuta/Melilla
+LPA;Gran Canaria;27.9319;-15.3866;Canarias
+SPC;Santa Cruz de La Palma;28.6265;-17.7556;Canarias
+TFS;Tenerife Sur (Reina Sofía);28.0445;-16.5725;Canarias
+TFN;Tenerife Norte (Los Rodeos);28.4827;-16.3415;Canarias
+PNA;Pamplona (Noáin);42.77;-1.6463;Península
+AEI;Algeciras (Helipuerto);36.129;-5.4414;Península
+XRY;Jerez;36.7446;-6.0601;Península
+GRX;Granada-Jaén;37.1887;-3.7774;Península
+LEI;Almería;36.8439;-2.3701;Península
+ACE;Lanzarote (César Manrique);28.9455;-13.6052;Canarias
+VGO;Vigo (Peinador);42.2318;-8.6268;Península
+MLN;Melilla;35.2798;-2.9563;Ceuta/Melilla
+REU;Reus;41.1474;1.1672;Península
+RJL;Logroño–Agoncillo;42.46;-2.3222;Península
+SDR;Santander (Seve Ballesteros);43.4271;-3.82;Península
+FUE;Fuerteventura;28.4527;-13.8638;Canarias
+MJV;Murcia–San Javier;37.7748;-0.8124;Península
+BJZ;Badajoz (Talavera la Real);38.8913;-6.8213;Península
+VDE;El Hierro;27.8148;-17.8871;Canarias
+GMZ;La Gomera;28.0296;-17.2146;Canarias
+ZAZ;Zaragoza;41.6662;-1.0416;Península
+VLL;Valladolid;41.7061;-4.8519;Península
+LEN;León;42.589;-5.6556;Península
+VIT;Vitoria;42.8828;-2.7245;Península
