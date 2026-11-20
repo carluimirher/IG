@@ -1,5 +1,9 @@
 # Shaders en GLSL: Buenas Noches y Tiny Code
 
+## Motivación del proyecto
+
+He estado en la carrera de Ingeniería Informática durante 3 años, y todos ellos han sido en horario de tarde. Este nuevo curso ha sido el primero que he tenido en horario de mañana en años, por lo que no estoy acostumbrado a acostarme y levantarme pronto, así que estos días he estado algo somnoliento. Para este proyecto, traté de pensar en una buena idea, pero mi cabeza no daba para más y quería dormir. Gracias a ese pensamiento, me pude ir a dormir tranquilo.
+
 ## Descripción del proyecto
 
 Este proyecto contiene una colección de shaders desarrollados en fragment GLSL utilizando el editor de **The Book of Shaders**. Las obras representan escenas animadas mediante matemáticas y funciones implícitas de renderizado, centradas en la figura de una oveja:
@@ -12,8 +16,8 @@ Este proyecto contiene una colección de shaders desarrollados en fragment GLSL 
 
 - **Buenas Noches:**
   - **Bucle Temporal y Movimiento Parabólico:** Control de la fase de salto (`jumpPhase`) mediante la parametrización del tiempo (`u_time`) y funciones trigonométricas ($\sin$) para modelar la trayectoria parabólica.
-  - **Cinemática Traslacional en Patas:** Rotación dinámica de articulaciones mediante matrices 2D (`rotate2d`) adaptadas a la velocidad y estado del salto (impulso y aterrizaje).
-  - **Composición por Capas y Profundidad:** Renderizado procedural en orden Z mediante mezcla de color (`mix`) y elipses suavizadas para diferenciar el fondo nocturno, el suelo, la valla trasera, la oveja y la valla frontal.
+  - **Movimiento de las patas:** Rotación dinámica de articulaciones mediante matrices 2D (`rotate2d`) adaptadas a la velocidad y estado del salto (impulso y aterrizaje).
+  - **Composición por Capas:** Renderizado procedural en orden Z mediante mezcla de color (`mix`) y elipses suavizadas para diferenciar el fondo nocturno, el suelo, la valla trasera, la oveja y la valla frontal.
 
 - **TC & Tiny Code:**
   - **Restricción de Tamaño (< 512 Bytes):** Reducción extrema del código GLSL eliminando espacios, unificando declaraciones de variables y acortando funciones complejas a fórmulas algebraicas compactas.
