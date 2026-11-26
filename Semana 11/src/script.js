@@ -83,7 +83,7 @@ function initGraphics() {
   const light = new THREE.DirectionalLight(0xffffff, 1);
   light.position.set(-10, 18, 5);
   light.castShadow = true;
-  const d = 14;
+  const d = 30;
   light.shadow.camera.left = -d;
   light.shadow.camera.right = d;
   light.shadow.camera.top = d;
@@ -92,8 +92,8 @@ function initGraphics() {
   light.shadow.camera.near = 2;
   light.shadow.camera.far = 50;
 
-  light.shadow.mapSize.x = 1024;
-  light.shadow.mapSize.y = 1024;
+  light.shadow.mapSize.x = 2048;
+  light.shadow.mapSize.y = 2048;
 
   scene.add(light);
   //Redimensión de la ventana
