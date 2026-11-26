@@ -55,4 +55,4 @@ Para este proyecto, se hicieron algunas preguntas a las Inteligencias Artificial
 
 Al hacer click en la siguiente imagen, se redirigirá a un video de YouTube donde se hace una demostración de la ejecución del código.
 
-[![Ver Demostración en YouTube](https://img.youtube.com/vi/Video_Pendiente/maxresdefault.jpg)](https://youtu.be/Video_Pendiente)
+[![Ver Demostración en YouTube](https://img.youtube.com/vi/brZs8kJfhWc/maxresdefault.jpg)](https://youtu.be/brZs8kJfhWc)
